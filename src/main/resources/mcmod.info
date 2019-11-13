@@ -1,0 +1,16 @@
+[
+{
+  "modid": "deepsouthmod",
+  "name": "Deep South Mod",
+  "description": "Add southern livin' to minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["adnre","DeaSTL"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
